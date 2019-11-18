@@ -1,0 +1,10 @@
+name = "TestMIDI"
+uuid = "dd1520e7-34ca-4094-899e-a4bd33e599c0"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+MIDI = "f57c4921-e30c-5f49-b073-3f2f2ada663e"
+
+[compat]
+julia = "1"
